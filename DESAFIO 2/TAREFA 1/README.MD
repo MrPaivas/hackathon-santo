@@ -8,6 +8,7 @@ A indeia inicial do projeto é desenvolver uma api rest para distibuição e con
 * O LINGUAGEM ESCOLHIDA FOI O PYTHON.
 * O FRAME-WORK ESCOLHIDO FOI O FLASK
 * O ORM ESCOLHIDO FOI SQLALCHEMY
+* USEI O POSTMAN DURANTE O DESENVOLVIMENTO
 
 2. ROTAS 
 * ROTA '/products' USANDO O MÉTODO POST:
